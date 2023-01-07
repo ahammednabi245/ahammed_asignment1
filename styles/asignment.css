@@ -38,7 +38,7 @@
     padding: 18px 35px;
     border-radius: 5px;
     background: #FD6E0A;
-    text-align: right;
+   
     margin-left: 985px;
     margin-top: 40px;
     margin-bottom: 500px;
@@ -124,7 +124,7 @@ section {
 }
 
 .section-title {
-    text-align: center;
+    padding-left: 615px;
     font-weight: 700;
     font-size: 35px;
     margin-bottom: 50px;
@@ -195,22 +195,21 @@ section {
     background: hsl(0, 2%, 8%);
     color: #FFFFFF;
     gap: 100px;
-
-
-    /* padding-left: 210px;
-        padding-top: 200px; */
-
-
 }
+  
 
-.section-title {
-    padding-top: 150px;
-    padding-right: 400px;
+
+
+.footer-headline{
+    padding-left: 200px;
+    padding-top: 130px;
+    padding-bottom: 31px;
+    font-weight: 600;
+    font-size: 50px;
 }
-
 .section-description {
     padding-left: 200px;
-    padding-right: 250px;
+    padding-right: 160px;
 }
 
 .link {
