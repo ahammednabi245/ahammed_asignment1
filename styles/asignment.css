@@ -118,3 +118,40 @@
 
 }
 
+/* plan section */
+section {
+    margin-top: 130px;
+}
+.section-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+
+.skills-container {
+    display: flex;
+    padding: 2px 80px;
+    text-align: center;
+    justify-content: space-around;
+   
+}
+
+.skill {
+    padding: 30px;
+    
+}
+
+
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.skill-description {
+    color: #737272;
+}
